@@ -189,6 +189,15 @@ Read/Write가 가능한 파티션이며, 팔로워 파티션은 리더 파티션
 - 데이터 플랫폼, 이벤트 기반 아키텍처 및 마이크로서비스의 기반 역할
 
 
+#### 출처
+https://jangseongwoo.github.io/kafka/kafka_official_documents/
+
+https://kafka.apache.org/
+
+https://docs.confluent.io/kafka/index.html
+
+https://www.youtube.com/playlist?list=PL3Re5Ri5rZmkY46j6WcJXQYRlDRZSUQ1j 
+
 
 
 
